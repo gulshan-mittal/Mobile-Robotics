@@ -22,4 +22,4 @@ This code is used to reconstruct a 3D cube using multi-view triangulation. For t
   <img src="multi-view-reconstruction.png" alt="Sublime's custom image"/>
 </p>
 
-I also implemented the trust-region strategy of LM algorithm for non-linear least square problems. 
+I also implemented the trust-region strategy of LM algorithm for non-linear least square problems.
